@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheLeank/reactbootcamp.git"
+    "url": "git+https://github.com/TheLeank/fso-bloglist-backend.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheLeank/reactbootcamp/issues"
+    "url": "https://github.com/TheLeank/fso-bloglist-backend/issues"
   },
-  "homepage": "https://github.com/TheLeank/reactbootcamp#readme",
+  "homepage": "https://github.com/TheLeank/fso-bloglist-backend#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "bcrypt": "^5.0.1",
