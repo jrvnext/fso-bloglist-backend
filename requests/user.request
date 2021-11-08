@@ -1,0 +1,21 @@
+###
+GET http://localhost:3003/api/user
+###
+POST http://localhost:3003/api/user
+Content-Type: application/json
+
+{
+  "username": "jacobo2",
+  "name": "Jacobo",
+  "password": "jrvi"
+}
+###
+POST http://localhost:3003/api/user
+Content-Type: application/json
+
+{
+  "username": "jacobo",
+  "name": "Jacobo Rodriguez",
+  "password": "mipassword",
+  "blogs": []
+}
