@@ -4,7 +4,7 @@ GET http://localhost:3003/api/blog
 ###
 POST http://localhost:3003/api/blog
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImphY29ibyIsImlkIjoiNjE0MGFlYTY3ZmI4YWU5N2FmMjQ5ZjkyIiwiaWF0IjoxNjMxNzg1NTcxfQ.XbOigTitaNx_M0pYutdL8Yfl6krICoXAlE_EFUTzjJU
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImphY29ibyIsImlkIjoiNjE5MzgzODMzNTRiNjMwMDIxOGQ2NDA5IiwiaWF0IjoxNjM3MDU3NDYzfQ.3L1gSMfPpxENGqG_1b0FnCM4EkkBxdi8YLxGPkb3tZw
 
 {
   "title": "userExtractor middleware",
@@ -16,7 +16,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImphY
 
 ###
 DELETE http://localhost:3003/api/blog/61435e9c797f0a362ffed0ef
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImphY29ibyIsImlkIjoiNjE0MGFlYTY3ZmI4YWU5N2FmMjQ5ZjkyIiwiaWF0IjoxNjMxNzg1NTcxfQ.XbOigTitaNx_M0pYutdL8Yfl6krICoXAlE_EFUTzjJU
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImphY29ibyIsImlkIjoiNjE5MzgzODMzNTRiNjMwMDIxOGQ2NDA5IiwiaWF0IjoxNjM3MDU3NDYzfQ.3L1gSMfPpxENGqG_1b0FnCM4EkkBxdi8YLxGPkb3tZw
 
 ###
 PUT http://localhost:3003/api/blog/6138be19276e8e145dc373c8
